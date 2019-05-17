@@ -139,6 +139,7 @@
 			<Catalog>Справочник4</Catalog>
 			<Catalog>Справочник5</Catalog>
 			<Catalog>test1</Catalog>
+			<Catalog>test2</Catalog>
 			<Document>Документ1</Document>
 		</ChildObjects>
 	</Configuration>
