@@ -8,8 +8,10 @@
 		<Metadata name="Catalog.Справочник3" id="470d646a-1348-4461-bf11-b163bb11c5f3" configVersion="cbe13c1e701a40468dd6e4ac0c043ade00000000"/>
 		<Metadata name="Catalog.Справочник4" id="504235f5-d243-4d44-a100-8d436e0c7e00" configVersion="3005615e34443a48a9aae34a469f892e00000000"/>
 		<Metadata name="Catalog.Справочник5" id="d5687f7d-1d75-4c2b-a4ed-f720dc29b6ce" configVersion="1a0f5d8379326243a119ec5c0365cef100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="9807ff71-d205-48f2-8ec8-03d0e475ce4a" configVersion="177e85d7592dde4694bde37cb7035e4400000000"/>
+		<Metadata name="Configuration.Конфигурация" id="9807ff71-d205-48f2-8ec8-03d0e475ce4a" configVersion="9855e24efe80ca4b8730b57627c39a5700000000"/>
 		<Metadata name="Document.Документ1" id="275da94c-69a3-4935-b3dc-d5127569be0c" configVersion="2d8cb381a23b364aaacd0f68c9f1d7bb00000000"/>
 		<Metadata name="Language.Русский" id="249c50e1-663c-414c-88fd-c6e488db8b66" configVersion="be1fbd7c11fac94098405c393a41a2bc00000000"/>
+		<Metadata name="Role.Роль1" id="a5cbb7b9-af0b-47e5-9889-88d028dbee9d" configVersion="09088aec33487f4e8be184a819ce1a8800000000"/>
+		<Metadata name="Role.Роль1.Rights" id="a5cbb7b9-af0b-47e5-9889-88d028dbee9d.0" configVersion="789c4bb35a95ab45b4e463c007b0416b00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
