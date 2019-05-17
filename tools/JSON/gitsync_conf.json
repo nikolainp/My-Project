@@ -31,7 +31,7 @@
 			"temp-dir": "",
 			"v8version": "8.3.14",
 			"plugins-config": {
-				"URL": "git@github.com:ZhdanovR/cicdForOne.git"
+				"URL": "git@github.com:nikolainp/My-Project.git"
 			}
 		}
 	]
