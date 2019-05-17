@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<Document uuid="275da94c-69a3-4935-b3dc-d5127569be0c">
+	<Document uuid="c0c4d4b7-b08a-405f-ba4f-e4014a5d9807">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.Документ1" category="Object">
-				<xr:TypeId>0f31f522-8cc2-47af-a221-0b38834e7710</xr:TypeId>
-				<xr:ValueId>634a3dd6-d4c6-421a-8983-28008d2205e5</xr:ValueId>
+			<xr:GeneratedType name="DocumentObject.Документ2" category="Object">
+				<xr:TypeId>a8fdba51-3771-4a4d-bd91-6fa081669dfa</xr:TypeId>
+				<xr:ValueId>8497090f-9333-4b0e-9a0c-91dc75ee8fc8</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.Документ1" category="Ref">
-				<xr:TypeId>7c3ca99e-7546-4b6b-8748-a45cd0d9a3e2</xr:TypeId>
-				<xr:ValueId>8f49cafc-2c05-487d-9e46-b47bd8032750</xr:ValueId>
+			<xr:GeneratedType name="DocumentRef.Документ2" category="Ref">
+				<xr:TypeId>68038bd3-85bb-429b-b9a4-8f225e168824</xr:TypeId>
+				<xr:ValueId>ad17e07a-a7ab-42af-91f1-74f83bbe9777</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.Документ1" category="Selection">
-				<xr:TypeId>b47d9d43-a73b-4f7a-b058-adb8ef921548</xr:TypeId>
-				<xr:ValueId>82b225f3-855a-403e-86f0-c340fe7cb68f</xr:ValueId>
+			<xr:GeneratedType name="DocumentSelection.Документ2" category="Selection">
+				<xr:TypeId>0dd58261-0e72-4d32-9d74-83bd535e4894</xr:TypeId>
+				<xr:ValueId>d041e3d1-81c8-4582-83fd-76535053d5bb</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.Документ1" category="List">
-				<xr:TypeId>5dbfdc3f-0141-435b-905c-407cf8b882ee</xr:TypeId>
-				<xr:ValueId>c9051d98-19d7-4d89-b1b8-a831436bd049</xr:ValueId>
+			<xr:GeneratedType name="DocumentList.Документ2" category="List">
+				<xr:TypeId>4bcc8366-8229-4784-80f6-626259a3d58e</xr:TypeId>
+				<xr:ValueId>71fc1d17-d43a-4f74-b8b0-abb08805a036</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.Документ1" category="Manager">
-				<xr:TypeId>4e0d8fc5-4da0-4075-b4ee-f3461fbee567</xr:TypeId>
-				<xr:ValueId>cd655221-8ffd-4bd1-a7c3-6eb8a8f94ed3</xr:ValueId>
+			<xr:GeneratedType name="DocumentManager.Документ2" category="Manager">
+				<xr:TypeId>22c1bff5-f231-4eb1-b06f-d4906727853c</xr:TypeId>
+				<xr:ValueId>cb63f052-15b5-4478-8a1b-d12b4db5ee05</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Документ1</Name>
+			<Name>Документ2</Name>
 			<Synonym/>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
@@ -38,7 +38,7 @@
 			<Characteristics/>
 			<BasedOn/>
 			<InputByString>
-				<xr:Field>Document.Документ1.StandardAttribute.Number</xr:Field>
+				<xr:Field>Document.Документ2.StandardAttribute.Number</xr:Field>
 			</InputByString>
 			<CreateOnInput>Use</CreateOnInput>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
