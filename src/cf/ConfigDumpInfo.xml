@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
 	<ConfigVersions>
+		<Metadata name="Catalog.test1" id="dcb91bd6-4fe2-4aa0-8b72-fad957201256" configVersion="12d0e0dc32ade84aa897eb916f361dd700000000"/>
 		<Metadata name="Catalog.Справочник1" id="0b2068a6-be2f-4e42-bff6-4bc491dd46d2" configVersion="8702daa88b242948bd831f47559b5f7300000000"/>
 		<Metadata name="Catalog.Справочник2" id="6f554a93-af83-4e4a-9610-214e0ee2b973" configVersion="8f859566ecc2ec4e9b0dd86b10b00bac00000000"/>
 		<Metadata name="Catalog.Справочник3" id="470d646a-1348-4461-bf11-b163bb11c5f3" configVersion="cbe13c1e701a40468dd6e4ac0c043ade00000000"/>
 		<Metadata name="Catalog.Справочник4" id="504235f5-d243-4d44-a100-8d436e0c7e00" configVersion="3005615e34443a48a9aae34a469f892e00000000"/>
 		<Metadata name="Catalog.Справочник5" id="d5687f7d-1d75-4c2b-a4ed-f720dc29b6ce" configVersion="1a0f5d8379326243a119ec5c0365cef100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="9807ff71-d205-48f2-8ec8-03d0e475ce4a" configVersion="c93651092625f748a86db2409b14f74600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="9807ff71-d205-48f2-8ec8-03d0e475ce4a" configVersion="c7e76688ecb3104baf1c6f41a8560ac900000000"/>
 		<Metadata name="Document.Документ1" id="275da94c-69a3-4935-b3dc-d5127569be0c" configVersion="2d8cb381a23b364aaacd0f68c9f1d7bb00000000"/>
 		<Metadata name="Language.Русский" id="249c50e1-663c-414c-88fd-c6e488db8b66" configVersion="be1fbd7c11fac94098405c393a41a2bc00000000"/>
 	</ConfigVersions>
